@@ -39,4 +39,19 @@ Kanban cards show new work, work in progress, and work completed
 4. Monitoring and controlling processes
 5. Closing processes
 
+#### Scrum Roles, Artifacts, and Ceremonies 
+
+* Product owner: person responsible for the business value of the project and for deciding what work to do and in what order, as documented in the product backlog*
+* ScrumMaster: person who ensures that the team is productive, facilitates the daily Scrum, enables close cooperation across all roles and functions, and removes barriers that prevent the team from being effective*
+* Scrum team or development team: cross-functional team of five to nine people who organize themselves and the work to produce the desired results for each sprint, which normally lasts two to four weeks*
+* An artifact is a useful object created by people*
+* Scrum artifacts*
+1. Product backlog: list of features prioritized by business value
+2. Sprint backlog: highest-priority items from the product backlog to be completed within a sprint
+3. Burndown chart: shows the cumulative work remaining in a sprint on a day-by-day basis
+
+
+
+
+
 
