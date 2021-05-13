@@ -28,3 +28,15 @@ Technique that can be used in conjunction with Scrum
 Developed in Japan by Toyota Motor Corporation
 Uses visual cues to guide workflow
 Kanban cards show new work, work in progress, and work completed
+
+#### Process Groups
+
+* A process is a series of actions directed toward a particular result*
+* Project management process groups*
+1. Initiating processes
+2. Planning processes
+3. Executing processes
+4. Monitoring and controlling processes
+5. Closing processes
+
+
